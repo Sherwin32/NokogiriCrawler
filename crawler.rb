@@ -1,3 +1,6 @@
+#This is a exercise from link: http://yukaihuang93.logdown.com/posts/243459/how-to-write-web-crawler-for-the-first-time-using-ruby
+#Please be reminded that it is a tutorial in Chinese
+
 require 'nokogiri'
 require 'pry'
 require 'json'
